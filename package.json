@@ -1,0 +1,25 @@
+{
+  "name": "quick_learning_symbol_playing_guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "03_account.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teritaris/quick_learning_symbol_playing_guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teritaris/quick_learning_symbol_playing_guide/issues"
+  },
+  "homepage": "https://github.com/teritaris/quick_learning_symbol_playing_guide#readme",
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "rxjs": "^7.5.5",
+    "symbol-qr-library": "^0.14.2",
+    "symbol-sdk": "^1.0.3"
+  }
+}
